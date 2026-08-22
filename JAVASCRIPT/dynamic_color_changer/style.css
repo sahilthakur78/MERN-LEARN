@@ -1,0 +1,14 @@
+h1{
+   text-align: center;
+}
+#colorBtn{
+    border: 2px solid black;
+    position: relative;
+    margin-left: 600px;
+}
+#sizeBtn{
+    border: 2px solid black;
+}
+#resetBtn{
+    border: 2px solid black;
+}
